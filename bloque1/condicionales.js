@@ -1,4 +1,4 @@
-var edad  =  15;
+var edad  =  14;
 
 if (edad > 15){
   console.log("Ta chiquito")
